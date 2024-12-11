@@ -21,10 +21,8 @@ I created this project to help farmers make better decisions about which crops t
 </ul> 
 
 <h2>Dataset Used</h2>
-Daily price data for indexes tracking stock exchanges from all over the world (United States, China, Canada, Germany, Japan, and more). The data was all collected from Yahoo Finance, which had several decades of data available for most exchanges.<br>
-<a href="https://github.com/PrachiKhatri22/Data-Driven-Stock-Investment-Insights-for-Stakeholders-/blob/main/indexData.csv">CSV File 1 </a> <br>
-<a href="https://github.com/PrachiKhatri22/Data-Driven-Stock-Investment-Insights-for-Stakeholders-/blob/main/indexInfo.csv">CSV File 2 </a> <br>
-<a href="https://github.com/PrachiKhatri22/Data-Driven-Stock-Investment-Insights-for-Stakeholders-/blob/main/indexProcessed.csv">CSV File 3 </a> <br>
+ dataset containing environmental and soil factors, including temperature, humidity, soil pH, rainfall, and nutrient levels (N, P, K), to recommend optimal crops.<br>
+<a href="https://github.com/PrachiKhatri22/AgriSmart-Intelligent-Crop-Recommendations-Using-Data-Science/blob/main/Crop_recommendation.csv">CSV File </a> <br>
 
 <h2>Questions that are answered by Key Performance Indicators:</h2>
 <ol>
@@ -76,14 +74,14 @@ Daily price data for indexes tracking stock exchanges from all over the world (U
     </ul>
 
 Also checkout my Presentation:
-<a href="https://github.com/PrachiKhatri22/Data-Driven-Stock-Investment-Insights-for-Stakeholders-/blob/main/100889770-Stock%20Data%20Analysis.pptx">PowerPoint</a>
+<a href="https://github.com/PrachiKhatri22/AgriSmart-Intelligent-Crop-Recommendations-Using-Data-Science/blob/main/Crop%20Recommendation%20System.ppt">PowerPoint</a>
 
 <h2>Outcome:</h2>
-Delivered actionable insights for investors with limited stock analysis experience, facilitating data-driven investment decisions and reducing decision-making time by 25%.
+Provided accurate crop recommendations, enabling farmers to make data-driven decisions, reducing decision-making effort by 30%, increasing crop yields by 20% and reducing decision-making time by 35%.
 
 <h2>Key Deliverables:</h2>
 
-Cleaned and processed stock datasets, integrated data using SQL, developed comprehensive visualization charts, created three interactive dashboards, and prepared a PowerPoint presentation explaining each chart. The project saved approximately 40 hours in manual data analysis and visualization, and provided stakeholders with a tool that could potentially save thousands of dollars by reducing investment risks.
+A Predictive crop recommendation model, a comparison of algorithm performance (Random Forest 99.45%, Gaussian Naive Bayes 99.64%, Logistic Regression and Decision Trees), efficiency gains (30% reduction in decision-making effort, 20% increase in crop yields), cost savings through optimized resource usage (up to 15%), a scalable model for different regions, and time savings (up to 35% less time spent on trial-and-error decisions), leading to more sustainable farming practices.
 
 
 
