@@ -82,6 +82,7 @@ I created this project to help farmers make better decisions about which crops t
 
 Also checkout my Presentation:
 <a href="https://github.com/PrachiKhatri22/AgriSmart-Intelligent-Crop-Recommendations-Using-Data-Science/blob/main/Crop%20Recommendation%20System.ppt">PowerPoint</a>
+<a href="https://github.com/PrachiKhatri22/AgriSmart-Intelligent-Crop-Recommendations-Using-Data-Science/blob/main/crop-recommendation.ipynb">Jupyter Notebook</a>
 
 <h2>Outcome:</h2>
 Provided accurate crop recommendations, enabling farmers to make data-driven decisions, reducing decision-making effort by 30%, increasing crop yields by 20% and reducing decision-making time by 35%.
