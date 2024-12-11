@@ -67,7 +67,7 @@ Daily price data for indexes tracking stock exchanges from all over the world (U
     </ul>
 
 <h4>4. Decision Trees</h4>
-<b>Why Used:<b> A tree-structured model that splits data into subsets based on feature values.<br>
+<b>Why Used:</b>b> A tree-structured model that splits data into subsets based on feature values.<br>
 <b>Benefits:</b>
     <ul>
         <li>Easy to visualize and understand for non-technical users.</li>
