@@ -73,6 +73,13 @@ I created this project to help farmers make better decisions about which crops t
         <li>Useful for initial feature importance analysis.</li>
     </ul>
 
+<h2>Findings</h2>
+<b>Correlation of each element with the other elements<b>
+<img width="630" alt="image" src="https://github.com/user-attachments/assets/93fd18a4-c4ed-442d-81fb-e173e4a581cc" />
+
+<b>Comparision of different algorithms accuracy</b>
+<img width="822" alt="image" src="https://github.com/user-attachments/assets/6dae47ef-b86e-43d3-a40a-b9c7ddfdf6c6" />
+
 Also checkout my Presentation:
 <a href="https://github.com/PrachiKhatri22/AgriSmart-Intelligent-Crop-Recommendations-Using-Data-Science/blob/main/Crop%20Recommendation%20System.ppt">PowerPoint</a>
 
