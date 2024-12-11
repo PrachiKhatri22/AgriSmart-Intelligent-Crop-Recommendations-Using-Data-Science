@@ -47,9 +47,9 @@ Daily price data for indexes tracking stock exchanges from all over the world (U
         <li>Works well with large datasets and multi-dimensional data.</li>
     </ul>
 
-    <h4>2. Gaussian Naive Bayes</h4>
-    <b>Why Used:</b> A probabilistic classifier that assumes the features follow a Gaussian distribution.<br>
-    <b>Benefits:</b>
+<h4>2. Gaussian Naive Bayes</h4>
+<b>Why Used:</b> A probabilistic classifier that assumes the features follow a Gaussian distribution.<br>
+<b>Benefits:</b>
     <ul>
         <li>Simple and computationally efficient.</li>
         <li>Performs consistently well with smaller datasets.</li>
