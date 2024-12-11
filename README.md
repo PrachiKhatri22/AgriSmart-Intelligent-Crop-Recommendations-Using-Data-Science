@@ -74,7 +74,7 @@ I created this project to help farmers make better decisions about which crops t
     </ul>
 
 <h2>Findings</h2>
-<b>Correlation of each element with the other elements<b>
+<b>Correlation of each element with the other elements</b>
 <img width="630" alt="image" src="https://github.com/user-attachments/assets/93fd18a4-c4ed-442d-81fb-e173e4a581cc" />
 
 <b>Comparision of different algorithms accuracy</b>
