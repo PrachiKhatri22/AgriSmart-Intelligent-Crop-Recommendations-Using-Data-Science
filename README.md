@@ -57,18 +57,18 @@ Daily price data for indexes tracking stock exchanges from all over the world (U
         <li>Useful for problems with independent features, like soil and environmental parameters.</li>
     </ul>
 
-    <h4>3. Logistic Regression</h4>
-    <b>Why Used:</b> A linear model used for classification tasks to estimate the probability of a target variable.<br>
-    <b>Benefits:</b>
+<h4>3. Logistic Regression</h4>
+<b>Why Used:</b> A linear model used for classification tasks to estimate the probability of a target variable.<br>
+<b>Benefits:</b>
     <ul>
         <li>Easy to implement and interpret.</li>
         <li>Effective for simpler datasets with linearly separable data.</li>
         <li>Acts as a baseline model for comparison with other advanced techniques.</li>
     </ul>
 
-    <h4>4. Decision Trees</h4>
-    <b>Why Used:<b> A tree-structured model that splits data into subsets based on feature values.<br>
-    <b>Benefits:</b>
+<h4>4. Decision Trees</h4>
+<b>Why Used:<b> A tree-structured model that splits data into subsets based on feature values.<br>
+<b>Benefits:</b>
     <ul>
         <li>Easy to visualize and understand for non-technical users.</li>
         <li>Handles both numerical and categorical data effectively.</li>
